@@ -1,5 +1,5 @@
 # project-proposal
-hw 10
+Sandy Chu, Kailin Li, Alvin Tan
 
 Our project proposal idea is the creation of an arduino robot who moves, draws on scrap paper, and tries to stick them onto objects/humans depending on external stimulus. 
 
@@ -18,10 +18,9 @@ Specifically, our robot should accomplish the following objectives:
   2) Create a distinct personality for the robot, such that users want to engage with it
       2a) Pastes the paper to the nearest object and person, creating a sense that it wants to remind/disrupt the normal order of things by freaking its owner/owners' friends out.
       2b) Changing the speed of the drawing (ref. Art Robot) to project a certain level of urgency depending on the stimulus encountered.
-  3) Tosses/catapults the crumpled paper (launched and controlled by the user)
-  
+ 
 Now you can get the attention of your pesky child, lover, roommate and show them how you feel! 
-(If time permits, we might make it more fun to add in a random component, where the robot may not end up delivering the message intended...)
+(If time permits, we might make it more fun to add in a random component, where the robot may not end up delivering the message intended or crumbles the message and tosses/catapults into target location (launched and controlled by the user))
 
 ## Component Parts
 - Arduino, breadboard, batteries, battery pack, wires (already provided)
@@ -32,15 +31,14 @@ Now you can get the attention of your pesky child, lover, roommate and show them
 - wheels and motors (shop)
 - mini-toilet plunger (shop)
 - writing utensil (shop)
+- motor and fasteners and screws for laterial movement
 
 Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
 
 ## Challenges
- 1) tearing up a first post-it from the stack requires a lot of precision from the claw
-    -> alternative is to use 5x5 pieces of paper and use a mini-plunger 
- 2) figuring out whether to move the pen or the placeholder to draw
- 3) programming precise ink output to ensure image coherence (for most of the time?)
- 4) incorporating G-code to draw from our robot 
+ 1) figuring out whether to move the pen or the placeholder to draw
+ 2) programming precise ink output to ensure image coherence (for most of the time?)
+ 3) incorporating G-code to draw from our robot 
 
 ## Timeline
 - Week 1: Write proposal
@@ -50,9 +48,12 @@ Include what types of inputs/outputs/data it will use, and a block diagram showi
 - Week 5: Present!
 
 ## References and link
-components: https://store.arduino.cc/usa/arduino-robot.
-art robot: https://www.youtube.com/watch?v=7TQlpWWWLho
-           https://www.youtube.com/watch?v=8_zs_kfFAFM
-           https://www.youtube.com/watch?v=0sT3qlGAV_U
+- components: https://store.arduino.cc/usa/arduino-robot.
+- art robot: https://www.youtube.com/watch?v=7TQlpWWWLho
+             https://www.youtube.com/watch?v=8_zs_kfFAFM
+             https://www.youtube.com/watch?v=S8YVlR_1hlo
+             https://www.youtube.com/watch?v=0sT3qlGAV_U
              gcode- https://www.youtube.com/watch?v=GWo2zyjR7wo
            
+Spring 2018
+Design Innovation 23
