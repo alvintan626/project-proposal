@@ -33,7 +33,8 @@ Now you can get the attention of your pesky child, lover, roommate and show them
 - writing utensil (shop)
 - motor and fasteners and screws for laterial movement
 
-Include what types of inputs/outputs/data it will use, and a block diagram showing how all those pieces are connected.
+G-code for drawings
+Block Diagram coming soon
 
 ## Challenges
  1) figuring out whether to move the pen or the placeholder to draw
