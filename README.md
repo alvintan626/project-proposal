@@ -50,11 +50,11 @@ Block Diagram coming soon
 
 ## References and link
 - components: https://store.arduino.cc/usa/arduino-robot.
-- art robot: https://www.youtube.com/watch?v=7TQlpWWWLho
-             https://www.youtube.com/watch?v=8_zs_kfFAFM
-             https://www.youtube.com/watch?v=S8YVlR_1hlo
-             https://www.youtube.com/watch?v=0sT3qlGAV_U
-             gcode- https://www.youtube.com/watch?v=GWo2zyjR7wo
-           
+- robot: 
+  - https://www.youtube.com/watch?v=zRL_u2qmwJM 
+  - https://www.youtube.com/watch?v=K3U2OlnTnME
+  - https://circuits.io/circuits/1747457-random-servo-movement
+  - https://circuits.io/lab/gallery
+  - 
 Spring 2018
 Design Innovation 23
