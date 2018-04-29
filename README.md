@@ -55,6 +55,7 @@ Block Diagram coming soon
   - https://www.youtube.com/watch?v=K3U2OlnTnME
   - https://circuits.io/circuits/1747457-random-servo-movement
   - https://circuits.io/lab/gallery
-  - 
+  - http://www.instructables.com/id/How-to-use-the-L293D-Motor-Driver-Arduino-Tutorial/
+  
 Spring 2018
 Design Innovation 23
